@@ -24,12 +24,23 @@ Eg - Caviar (fish egss) is a scarce resource
 
 1. Normative Statement
 - it is a statement concerned with giving an opinion or involving ethics
-- it how someone things the world should be
+- it is how someone thinks the world should be
 
 Eg - Paying People who aren't working, even though they could work, is wrong and unfair
-Eg - The govt. should raise taxes on the wealthy to pay for helping the poor 
+Eg - The govt. should raise taxes on the wealthy to pay for helping the poor
 
 2. Positive Statement
 - it doesn't necessarily have to be true but can be tested
 Eg - Programs like welfare reduce the incentive for people to work
 Eg - Raising taxes on the wealthy to pay for govt. programs grows the economy
+
+<!-- What are the different Economic Models -->
+- Models are created to test some parameters for a specific scenario and using the findings from that
+experiment make an generalized assumption for a larger populace
+- Economists make simplifying assumptions
+Eg - all actors in an economy ae rational (not necessarily true)
+
+** ceteris paribus
+- All other things being equal
+
+** One shouldn't accept economic models as giving a perfect picture of reality
