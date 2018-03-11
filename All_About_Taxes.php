@@ -52,3 +52,7 @@ in a year
 - Tax Deduction at Source
 - The person's employer will estimate the total annual income and deduct tax on the income ,if the taxable income exceeds Rs 2,50000
 - When we earn Interest on Fixed Deposit, the bank deducts the TDS
+
+<!-- How is Tax Calculated on Salary -->
+
+Tax slab 2018 - https://imgur.com/a/YLx5x

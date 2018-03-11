@@ -1,3 +1,6 @@
+<!-- What is Economics -->
+- We have resources in the economy and we wish to understand how those resources will be allocated
+
 <!-- What is MicroEconomics -->
 - it is the study of individual actors
 - these actors could be firms, households
@@ -36,11 +39,41 @@ Eg - Raising taxes on the wealthy to pay for govt. programs grows the economy
 
 <!-- What are the different Economic Models -->
 - Models are created to test some parameters for a specific scenario and using the findings from that
-experiment make an generalized assumption for a larger populace
+experiment make a generalized assumption for a larger populace
 - Economists make simplifying assumptions
-Eg - all actors in an economy ae rational (not necessarily true)
+Eg - all actors in an economy are rational (not necessarily true)
 
 ** ceteris paribus
 - All other things being equal
 
 ** One shouldn't accept economic models as giving a perfect picture of reality
+
+<!-- What are command and market economies -->
+
+1. Command Economy
+- the govt. controls that factors of production like farms, factories etc.
+- the govt will tell that this year exactly 10,000 cars (no more no less)
+- the govt. also decides who gets the output (it might not be the person who can pay the most)
+- the prices are more or less fixed
+
+<!-- Advantages of Command Economy -->
+- Fairness in delegation of products
+- Communism (a theory or system of social organization in which all property is owned by the community
+and each person contributes and receives according to their ability and needs)
+
+<!-- Disadvantages of Command Economy -->
+- One's new ideas will not be rewareded
+
+2. Market Economy
+- Most economies are this type of economy
+- Here the factors of production are independent of the govt.
+- They produce on the basis of Market needs and competition
+- The prices are variable depending on demand
+
+<!-- Advantages of Market Economy -->
+- Innovation
+- Strong incentives for people to work harder
+
+* China moved from a command to a market economy
+** All countries are not completely market economy. The govt. has some say in areas like Healthcare etc.
+** These are Mixed economies
